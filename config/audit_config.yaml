@@ -1,0 +1,13 @@
+# linux-security-audit config
+# Set true/false to enable or disable each check
+
+checks:
+  failed_logins:    true
+  empty_passwords:  true
+  ssh_config:       true
+  firewall:         true
+  updates:          true
+
+thresholds:
+  failed_login_warn: 10
+  failed_login_fail: 50
