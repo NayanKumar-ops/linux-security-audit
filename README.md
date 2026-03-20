@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 What is This?
+# 📌 What is This?
 
 `linux-security-audit` is a **modular, terminal-based security scanner** that automatically checks your Linux system for common vulnerabilities and misconfigurations.
 
@@ -99,26 +99,8 @@ sudo python3 audit.py
 ========================================
 ```
 
----
 
-## 🛠️ Requirements
 
-- Rocky Linux 8/9 or RHEL-based distro
-- Python 3.x
-- Root / sudo access
-- No external Python packages needed
-
----
-
-## 🔮 Roadmap
-
-- [ ] HTML report generation
-- [ ] Email alerts on FAIL
-- [ ] Cron job auto-scheduling
-- [ ] CIS Benchmark integration
-- [ ] Kernel hardening checks
-
----
 
 ## 👤 Author
 
@@ -130,7 +112,6 @@ sudo python3 audit.py
 
 <div align="center">
 
-**⭐ Star this repo if it helped you.**  
-*Built with focus. No shortcuts.*
+
 
 </div>
