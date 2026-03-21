@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Linux Security Audit
+# 🛡️ Linux Security Audit By Nayan Kumar
 
 > **Automated security hardening scanner for Rocky Linux / RHEL systems.**  
 > Built for sysadmins, DevOps engineers, and security-minded developers.
