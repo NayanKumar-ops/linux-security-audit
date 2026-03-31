@@ -115,5 +115,6 @@ sudo python3 audit.py
 
 
 </div>
-new update willl come soon stay tune for future having some delay in work
-coming soon 
+author nayan
+when you will come back nayan i wanna see you diffrent person
+ok
